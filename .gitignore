@@ -1,3 +1,5 @@
 build/*
 .trace
 .coverage*
+config.bat
+node_modules
